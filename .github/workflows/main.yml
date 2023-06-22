@@ -1,5 +1,5 @@
 
-name: Portfolio Deployment on s3
+name: Portfolio Deployment on s3 bucket
 
 on:
   push:
