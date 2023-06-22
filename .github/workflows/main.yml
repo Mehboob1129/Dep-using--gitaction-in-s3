@@ -1,12 +1,12 @@
 
-name:Portfolio Deployment on s3
+name: Portfolio Deployment on s3
 
 on:
   push:
     branches:
       - master
       
-  jobs:
+jobs:
     build-test-and-deploy:
       runs-on: ubuntu latest
       steps:
